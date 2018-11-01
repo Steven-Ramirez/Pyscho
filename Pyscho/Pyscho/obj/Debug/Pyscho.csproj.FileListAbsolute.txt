@@ -1,0 +1,14 @@
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\bin\Debug\Pyscho.exe.config
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\bin\Debug\Pyscho.exe
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\bin\Debug\Pyscho.pdb
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\obj\Debug\Pyscho.csprojAssemblyReference.cache
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\obj\Debug\Pyscho.csproj.CoreCompileInputs.cache
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\obj\Debug\Pyscho.exe
+C:\Users\srami\Documents\Homework\Intro to Programming\Pyscho\Pyscho\obj\Debug\Pyscho.pdb
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\bin\Debug\Pyscho.exe.config
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\bin\Debug\Pyscho.exe
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\bin\Debug\Pyscho.pdb
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\obj\Debug\Pyscho.csprojAssemblyReference.cache
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\obj\Debug\Pyscho.csproj.CoreCompileInputs.cache
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\obj\Debug\Pyscho.exe
+C:\Users\steve.ramirez\Desktop\Pyscho\Pyscho\obj\Debug\Pyscho.pdb
